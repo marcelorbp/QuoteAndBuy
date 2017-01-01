@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [ParallelSuite]" parallel="methods">
+  <test name="DetailsTests(failed)" parallel="methods">
+    <classes>
+      <class name="tests.MandatoryTest">
+        <methods>
+          <include name="AfterTest"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- tests.MandatoryTest -->
+      <class name="tests.DetailsTest">
+        <methods>
+          <include name="StandarQuote"/>
+          <include name="AfterTest"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- tests.DetailsTest -->
+    </classes>
+  </test> <!-- DetailsTests(failed) -->
+</suite> <!-- Failed suite [ParallelSuite] -->

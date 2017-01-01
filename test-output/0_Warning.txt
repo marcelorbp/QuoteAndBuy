@@ -1,0 +1,17 @@
+McAfee MSME detected and removed a file form the original mail entity. You can safely save or delete this replacement attachment. 
+
+McAfee MSME a detecté puis effacé un fichier du message d'origine qui ne correspond pas aux règles de sécurité. Vous pouvez sauvegarder ou effacer ce messsage de remplacement.
+
+McAfee MSME hat einen unsicheren Anhang entdeckt und aus der Original-Nachricht entfernt. Sie können diesen Ersatzanhang speichern oder löschen.
+BLOCKED FILE ALERT
+
+A file has been blocked due to the 'ALZ_file_filtering_rule' rule.
+Context: 'jquery-1.7.1.min.js'
+Disallowed due to filename
+
+
+
+For further information, contact your system administrator. 
+Copyright 1999-2014 McAfee, Inc.
+All Rights Reserved.
+http://www.mcafee.com
